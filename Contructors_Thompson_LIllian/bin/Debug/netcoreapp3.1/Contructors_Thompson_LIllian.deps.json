@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Contructors_Thompson_LIllian/1.0.0": {
+        "runtime": {
+          "Contructors_Thompson_LIllian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Contructors_Thompson_LIllian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

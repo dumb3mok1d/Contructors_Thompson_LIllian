@@ -1,0 +1,13 @@
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\bin\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.exe
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\bin\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.deps.json
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\bin\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.runtimeconfig.json
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\bin\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.runtimeconfig.dev.json
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\bin\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.dll
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\bin\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.pdb
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\obj\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.csproj.AssemblyReference.cache
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\obj\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.AssemblyInfoInputs.cache
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\obj\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.AssemblyInfo.cs
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\obj\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.csproj.CoreCompileInputs.cache
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\obj\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.dll
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\obj\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.pdb
+C:\Users\lillian.thompson\source\repos\Contructors_Thompson_LIllian\Contructors_Thompson_LIllian\obj\Debug\netcoreapp3.1\Contructors_Thompson_LIllian.genruntimeconfig.cache
